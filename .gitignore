@@ -1,0 +1,7 @@
+backend/node_modules
+backend/.env
+.DS_Store
+OrcaAisViewer/ios/Pods
+OrcaAisViewer/ios/Podfile.lock  
+OrcaAisViewer/.env
+OrcaAisViewer/android/gradle.properties
